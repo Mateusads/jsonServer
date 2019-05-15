@@ -1,0 +1,28 @@
+{
+  "filmes": [
+    {
+      "titulo":"O ano do pensamento mágico",
+      "autor": "Joan Didion",
+      "ano": 2004,
+      "capa": "https://cdn.culturagenial.com/imagens/o-ano-do-pensamento-magico-cke.jpg"
+    },
+    {
+      "titulo":"A revolução dos bichos",
+      "autor": "George Orwell",
+      "ano": 1995,
+      "capa": "https://cdn.culturagenial.com/imagens/a-revolucao-dos-bichos-de-george-orwell-cke.jpg"
+    },
+    {
+      "titulo":"A Arte Subtil de Saber Dizer que se F*da",
+      "autor": "Mark Manson",
+      "ano": 2018,
+      "capa": "https://cdn.culturagenial.com/imagens/uma-arte-subtil-cke.jpg"
+    },
+    {
+      "titulo":"Sapiens: História Breve da Humanidade",
+      "autor": "Yuval Noah Harari ",
+      "ano": 2011,
+      "capa": "https://cdn.culturagenial.com/imagens/81btkpmrlyl-cke.jpg"
+    }
+  ]
+}
